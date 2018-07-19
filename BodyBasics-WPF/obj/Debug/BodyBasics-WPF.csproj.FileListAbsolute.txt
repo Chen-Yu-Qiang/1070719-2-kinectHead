@@ -1,0 +1,17 @@
+D:\kinect\body basics-WPF\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\kinect\body basics-WPF\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\kinect\body basics-WPF\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\kinect\body basics-WPF\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\kinect\body basics-WPF\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\MainWindow.baml
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\App.g.cs
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+D:\kinect\body basics-WPF\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
